@@ -32,7 +32,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 None
 
-## Acknowledgments
+## Acknowledgements
 
 * Starter code provided by Udacity Full Stack Developer Nanodegree program
 
