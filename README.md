@@ -4,7 +4,7 @@ Movie Trailer Website
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -19,18 +19,11 @@ These instructions will get you a copy of the project up and running on your loc
 ## How to run the application
 
 1. Download the movie_trailers repository onto your local machine
-2. Go to the directory where you have the repository downloaded. 
+2. Go to the directory where you have the repository downloaded.
 3. Find fresh_tomatoes.html file in the directory.  Right click on that file, then Open with, Chrome (or other web browser).
 4. Click on any movie on the web page, and see a trailer for the movie.
 
 
-## Authors
-
-* **Ying Xie** 
-
-## License
-
-None
 
 ## Acknowledgements
 
